@@ -20,7 +20,7 @@ Para ejecutar este proyecto, primeramente descarguelo y luego instálelo localme
 
 ```
 $ git clone https://github.com/marcos006-dev/ave_problema_1.git
-$ cd problema_1
+$ cd ave_problema_1
 $ npm install
 $ npm start
 ```
