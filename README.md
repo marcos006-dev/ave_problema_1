@@ -16,10 +16,10 @@ multiplicación de los mismos SIN usar el operador de multiplicación \*.
 
 ## Configuracion
 
-Para ejecutar este proyecto, primeramente descarguelo y leugo instálelo localmente usando npm:
+Para ejecutar este proyecto, primeramente descarguelo y luego instálelo localmente usando npm:
 
 ```
-$ git clone
+$ git clone https://github.com/marcos006-dev/ave_problema_1.git
 $ cd problema_1
 $ npm install
 $ npm start
